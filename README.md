@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @hkd05
-- 🌱 https://datawodanalytics.wixsite.com/duggan-portfolio
 
 <!---
 hkd05/hkd05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
